@@ -1,4 +1,4 @@
-module github.com/dimkadt/golangtest
+module github.com/dimkadt/gotestapp
 
 go 1.17
 
